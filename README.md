@@ -1,5 +1,5 @@
 # my_table
-![image](https://github.com/Bhumikakri/my_table/assets/128302166/28ec155e-b88c-4aa7-857a-be8fd8f7c86e)
+![Screenshot (52)](https://github.com/Bhumikakri/my_table/assets/128302166/d6c1c032-b697-43b5-bca4-64c4ee180698)
 'table' tag for making table
 use border for border of whole tables than use rule for styling the border
 'thead'tag for heding part of the table,
